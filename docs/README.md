@@ -4,10 +4,9 @@
 
 The following of my [projects on Github](https://github.com/stoerr) have Github sites: 
 
-- [chatGPTtools](chatGPTtools/) : Many tools, bookmarklets and apps for productivity using the ChatGPT API
-- [TIL](til/) : Things / Today I’ve learned
-- [DevelopersChatGPTToolBench](DevelopersChatGPTToolBench/) : a ChatGPT plugin for developers that allows reading / 
-  searching / writing files, executing (build) actions
+- [chatGPTtools](https://chatgpttools.stoerr.net/) : Many tools, bookmarklets and apps for productivity using the ChatGPT API
+- [TIL](https://til.stoerr.net/) : Things / Today I’ve learned
+- [CoDeveloperGPTengine](https://CoDeveloperGPTengine.stoerr.net/) : let a GPT collaborate with you as a co-developer on your local files and execute actions on your computer.
 
 ## About me
 
